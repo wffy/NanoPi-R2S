@@ -1,3 +1,6 @@
+## 20200327
+* 打卡KCPTUN
+
 ## 20200326
 * 默认不开启 Full Cone NAT 与 Flow Offloading
 
